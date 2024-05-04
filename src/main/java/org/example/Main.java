@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("This is my first repository");
+        System.out.println("This is second commit");
     }
 }
